@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "TestComponent",
+    "Description": "My Test Component",
+    "Owner": "Anana",
+    "Level": 1,
+    "External": false
+  }
+]
